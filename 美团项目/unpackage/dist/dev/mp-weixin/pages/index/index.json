@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "美团",
+  "usingComponents": {
+    "footer": "/components/Footer/Footer"
+  }
+}

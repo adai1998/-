@@ -1,0 +1,85 @@
+.footer {
+  width: 750rpx;
+  height: 440rpx;
+  padding-top: 30rpx;
+  background: #fff;
+}
+.footer .top {
+  width: 750rpx;
+  height: 84rpx;
+  padding: 0 40rpx;
+}
+.footer .top .loginOrRegister {
+  width: 670rpx;
+  height: 84rpx;
+  padding: 12rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.footer .top .loginOrRegister .login {
+  width: 110rpx;
+  height: 54rpx;
+  background: #ffbd00;
+  text-align: center;
+  line-height: 54rpx;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+  float: left;
+}
+.footer .top .loginOrRegister .register {
+  margin-left: 20rpx;
+  width: 110rpx;
+  height: 54rpx;
+  background: #ffbd00;
+  text-align: center;
+  line-height: 54rpx;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+  float: left;
+  margin-right: 200rpx;
+}
+.footer .top .loginOrRegister .city {
+  width: 190rpx;
+  height: 60rpx;
+  float: left;
+  font-size: 28rpx;
+  line-height: 60rpx;
+  text-align: center;
+}
+.footer .center {
+  width: 710rpx;
+  height: 84rpx;
+  margin-top: 10rpx;
+  margin-left: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.footer .center ._p {
+  padding: 0 37rpx;
+  font-size: 26rpx;
+  border-right: 2rpx solid #b3b3b3;
+}
+.footer .bottom {
+  margin-left: 20rpx;
+  width: 690rpx;
+  height: 126rpx;
+  padding: 30rpx 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.footer .bottom .item {
+  font-size: 22rpx;
+  padding-bottom: 20rpx;
+}
+

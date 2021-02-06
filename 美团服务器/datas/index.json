@@ -1,0 +1,94 @@
+{
+	"List": [
+	    {		
+					"title":"青城影咖",
+					"address":"[丰润新区]哈喽KT房4小时",
+					"price":59,
+					"mPrice":69,
+					"yishou":113,
+	        "imgUrl": "//p1.meituan.net/200.0/dpdeal/3cf808222fc5fbe9a8b66aac237f8c8f2581564.jpg",
+					"id":"01"
+	    },
+			{
+					"title":"甜心美甲",
+					"address":"[2店通用]美甲单人套餐",
+					"price":49.9,
+					"mPrice":140,
+					"yishou":1758,
+			    "imgUrl": "//p1.meituan.net/200.0/dpdeal/5783102c72b335a48f242eeb7b353e64442417.jpg",
+					"id":"02"
+			},
+			{
+					"title":"苗颖竹荪鹅",
+					"address":"[路北区]100元代金券1张，可叠加2张",
+					"price":89,
+					"mPrice":100,
+					"yishou":9168,
+			    "imgUrl": "//p0.meituan.net/200.0/deal/ca81d1aeb4e4bd681a2e007cdecf08da117429.jpg",
+					"id":"03"
+			},
+			{
+					"title":"圣堡罗KTV",
+					"price":48,
+					"mPrice":145,
+					"yishou":10927,
+			    "imgUrl": "//p1.meituan.net/200.0/dpdeal/a8915db1d8196990c15179a23320885e102100.jpg",
+					"id":"04",
+					"address":"[曹雪芹东道]包段6小时欢唱"
+			},
+			{
+					"title":"赫本美甲&半永久纹眉",
+					"price":5999,
+					"mPrice":6999,
+					"yishou":520,
+			    "imgUrl": "https://p0.meituan.net/200.0/merchantpic/aadfc96c3eedf3a9feb0f6acc0c2319c350446.jpg",
+					"id":"05",
+					"address":"[万达]高品质半永久【水雾眉】或【美瞳线】"
+			},
+			{
+					"title":"锅秀火锅岛潮牌自助餐厅",
+					"price":59,
+					"mPrice":69,
+					"yishou":113,
+			    "imgUrl": "//p0.meituan.net/200.0/deal/6f602977020e2b65a863ad2c2ebdad921103615.jpg@560_0_2240_2240a%7C267h_267w_2e_90Q",
+					"id":"06",
+					"address":"[远洋城]自助火锅单人餐"
+			},
+			{
+					"title":"唐·大都汇",
+					"price":109,
+					"mPrice":138,
+					"yishou":15304,
+			    "imgUrl": "//p0.meituan.net/200.0/dpdeal/985966f033ac02c773d55c58d8a3caca744599.jpg",
+					"id":"07",
+					"address":"[龙泽路]单人洗浴汗蒸游泳+搓澡"
+			},
+			{
+					"title":"万清绿水",
+					"price":45.9,
+					"mPrice":63,
+					"yishou":15123,
+			    "imgUrl": "//p0.meituan.net/200.0/dpdeal/ee7f2b11124f3f1cb1285acfd466e7101276964.png",
+					"id":"08",
+					"address":"[北新道]洗浴+搓澡（不包含澡巾）"
+			},
+			{
+					"title":"辛助日韩简餐",
+					"price":14.9,
+					"mPrice":25,
+					"yishou":40932,
+			    "imgUrl": "//p1.meituan.net/200.0/deal/df6a39048e3e24fef0a94302a62055a849847.jpg@117_0_468_468a%7C267h_267w_2e_90Q",
+					"id":"09",
+					"address":"[3店通用]精品套餐，建议单人使用"
+			},
+			{
+					"title":"成远化妆摄影主持人培训学校",
+					"price":9.9,
+					"mPrice":30,
+					"yishou":15,
+			    "imgUrl": "//p1.meituan.net/200.0/dpdeal/ec297f937160a259ad8c835801337a3d148488.jpg",
+					"id":"10",
+					"address":"[银泰城]单人美甲速成体验课（可赠送单色美甲一次）"
+			}
+	]		
+}

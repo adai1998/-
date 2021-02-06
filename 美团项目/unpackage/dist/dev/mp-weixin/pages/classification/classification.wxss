@@ -1,0 +1,64 @@
+.classficationsContainer {
+  width: 100%;
+  padding: 0 20rpx;
+  background: #f0efed;
+  overflow: hidden;
+}
+.classficationsContainer .header {
+  width: 710rpx;
+  height: 70rpx;
+  background: #fff;
+  margin-top: 20rpx;
+  margin-bottom: 40rpx;
+  border-radius: 6rpx;
+  border: 1px solid #ddd8ce;
+  text-align: center;
+  line-height: 70rpx;
+  font-size: 28rpx;
+}
+.classficationsContainer .content {
+  width: 710rpx;
+}
+.classficationsContainer .content .title {
+  width: 100%;
+  height: 33rpx;
+  font-size: 30rpx;
+  margin: 14rpx 0;
+}
+.classficationsContainer .content .table {
+  width: 710rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-bottom: 40rpx;
+  position: relative;
+}
+.classficationsContainer .content .table .item {
+  width: 33.33%;
+  height: 81rpx;
+  background: #fff;
+  text-align: center;
+  line-height: 81rpx;
+  border-bottom: 2rpx solid #ddd8ce;
+  border-right: 2rpx solid #ddd8ce;
+  margin-bottom: 2rpx;
+  font-size: 28rpx;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 1;
+}
+.classficationsContainer .content .table .item.isShow {
+  display: none;
+}
+.classficationsContainer .content .table .item.kongbai {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+}
+
